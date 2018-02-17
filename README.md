@@ -48,7 +48,7 @@ We know that this is a challenging assignment. We aim to help guide you to a suc
 
 We encourage you to submit your work to MarkUs frequently, especially each time you complete one of the steps below.
 
-```Step 1: Read and understand the Cheese class in toah_model.py, and implement the methods where we have given headers (don’t change the headers). This step is worth 10%.
+Step 1: Read and understand the Cheese class in toah_model.py, and implement the methods where we have given headers (don’t change the headers). This step is worth 10%.
 
 Step 2: Read all client code in gui_controller.py, gui_viewables.py, console_controller.py, and tour.py, to see how it uses class TOAHModel. Unlike ConsoleController, GUIController is already completely implemented for you. You do not need to understand (and you certainly should not change) the code in the ﬁles gui_controller.py and gui_viewables.py, but your implementation of TOAHModel will be expected to work with both ConsoleController (once you complete step 4) and GuiController.
 
@@ -81,7 +81,7 @@ This step is worth 35% of the credit for this assignment. Any solution of the ga
 Step 6: Add an option to your tour module that enables animating your solver in the console. The header for tour.tour_of_four_stools already has two optional arguments for this; when console_animate is True, animation should be displayed in the console, and delay_btw_moves gives the number of seconds to wait between showing two moves. We recommend using TOAHModel.__str__, but this isn’t required (you can make your own string-based representation).
 
 This step is worth 10%.
-```
+
 
 Correctness of Steps 1-6 is worth 100% of the credit for this assignment. We are grading correctness only, not style, design, docstrings, formatting, etc.
 
