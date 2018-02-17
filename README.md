@@ -80,7 +80,8 @@ This step is worth 35% of the credit for this assignment. Any solution of the ga
 
 Step 6: Add an option to your tour module that enables animating your solver in the console. The header for tour.tour_of_four_stools already has two optional arguments for this; when console_animate is True, animation should be displayed in the console, and delay_btw_moves gives the number of seconds to wait between showing two moves. We recommend using TOAHModel.__str__, but this isn’t required (you can make your own string-based representation).
 
-This step is worth 10%.```
+This step is worth 10%.
+```
 
 Correctness of Steps 1-6 is worth 100% of the credit for this assignment. We are grading correctness only, not style, design, docstrings, formatting, etc.
 
